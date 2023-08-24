@@ -1,0 +1,67 @@
+textarea {
+    resize: none;
+}
+
+body {
+    color: #DCDCDC;
+    background-color: #1F1F1F;
+    font-family: 'cascadia mono';
+    font-weight: lighter;
+    font-size: 16px;
+}
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+legend {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+input {
+    color: #DCDCDC;
+    background-color: #424242;
+    font-family: 'cascadia mono';
+    place-content: center;
+}
+
+textarea {
+    color: #DCDCDC;
+    background-color: #424242;
+    font-family: 'cascadia mono';
+}
+
+select {
+    color: #DCDCDC;
+    background-color: #424242;
+    font-family: 'cascadia mono';
+}
+
+button {
+    color: #ebebeb;
+    background-color: #007AE2;
+    font-family: 'cascadia mono';
+}
+
+a {
+    color: #007AE2;
+    text-decoration: none;
+}
+
+.nombreProyecto {
+    font-weight: bold;
+}
+
+#nombreBorges {
+    font-size: 20px;
+}
